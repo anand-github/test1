@@ -1,5 +1,9 @@
 Hello everyone!
 we are fine
 checkout new branch with git checkout -b temp1
-git rocks
 there should be more in depth tutorials on git
+we are enjoying github
+there are many things to learn
+I'm looking forward to learn more on git
+I like git
+git rocks
